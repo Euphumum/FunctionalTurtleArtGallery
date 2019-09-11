@@ -1,5 +1,5 @@
 import turtle
-turtle.speed(5000)
+turtle.speed(907689760865)
 
 
 def star(turtle,size):
